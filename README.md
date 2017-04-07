@@ -1,2 +1,5 @@
 # cozzy
-cozzy place for my code
+
+Hi, Aliens
+
+let me introduce myself
